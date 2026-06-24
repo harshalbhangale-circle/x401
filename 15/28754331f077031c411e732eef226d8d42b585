@@ -1,0 +1,25 @@
+spec.md
+  s_b0de4a59daad3c::t_811c06bc3d1fb4 1205-1246
+  s_b0de4a59daad3c::t_3b384b6e375553 1436-1460
+  s_b0de4a59daad3c::t_61e5d75ada0737 1496-1501
+  s_b0de4a59daad3c::t_7da1bab5295ea1 1526-1527
+  s_b0de4a59daad3c::t_2612509336beb9 1291-1298
+CHANGELOG.md
+  s_b0de4a59daad3c::t_e8ca9f2aab54f2 8-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1528754331f077031c411e732eef226d8d42b585",
+  "prompts": {},
+  "sessions": {
+    "s_b0de4a59daad3c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "075de50f-5570-4b08-a898-1e42bda04980",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "harshalbhangale-circle <harshal.bhangale@circle.com>"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+CHANGELOG.md
+  s_b0de4a59daad3c::t_e8ca9f2aab54f2 8-11,13-20
+  s_84138b70f3cfeb::t_1089179458acd0 12
+spec.md
+  s_b0de4a59daad3c::t_7da1bab5295ea1 1525-1526
+  s_b0de4a59daad3c::t_61e5d75ada0737 1495-1499
+  s_b0de4a59daad3c::t_34590962485940 1557-1560
+  s_b0de4a59daad3c::t_6ed24d78f15a00 1452
+  s_b0de4a59daad3c::t_ba4dcb0a6ad713 1219
+  s_b0de4a59daad3c::t_811c06bc3d1fb4 1205-1218,1220-1245
+  s_b0de4a59daad3c::t_2612509336beb9 1290-1295,1297
+  s_84138b70f3cfeb::t_1089179458acd0 1296,1446,1500
+  s_b0de4a59daad3c::t_3b384b6e375553 1435-1445,1447-1451,1453-1459
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f752eaa255fdd71978abb724b4604ffcb88dbf68",
+  "prompts": {},
+  "sessions": {
+    "s_84138b70f3cfeb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ef79d-dce9-78e2-9110-38d82dd587e6",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    },
+    "s_b0de4a59daad3c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "075de50f-5570-4b08-a898-1e42bda04980",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
